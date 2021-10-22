@@ -1,4 +1,4 @@
-number1 = 64
+number1 = int(input("enter num"))
 number2 = 8
 result = number1*number2
 print(result)
